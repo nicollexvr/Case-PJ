@@ -239,11 +239,6 @@ python analise_cx_pj.py
 
 ---
 
-```
-
-
-
-
 ## 8. Decisões de engenharia (resumo)
 
 | Tema | Escolha | Benefício |
